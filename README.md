@@ -75,7 +75,6 @@ The Deluxe Hotel management requires a solution to replace their manual, paper-b
 
 Below is a structured pseudocode example for handling the booking and reservation process:
 
-```plaintext
 1. START
 2. Declare variables
 3. Set discount rate and payment deadline
@@ -87,9 +86,9 @@ Below is a structured pseudocode example for handling the booking and reservatio
 9. END
 
 ## Full Pseudocode
-The detailed pseudocode is available [here](#).
+The detailed pseudocode is available here.
 
----
+--- 
 
 ## Critical Path Review
 
