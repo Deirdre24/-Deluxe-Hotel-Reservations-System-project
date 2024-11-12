@@ -1,73 +1,64 @@
-# Deluxe Hotel Reservations System
+# Deluxe Hotel Reservations System 
 
 ## Overview
-The Deluxe Hotel Reservations System project provides an automated, web-based solution for hotel reservations, addressing the operational needs of Deluxe Hotel in Botswana. This system helps manage reservations, bookings, and critical customer and staff data, reducing the manual workload and enhancing efficiency. This project was developed to fulfill the requirements of a Systems Development Life Cycle (SDLC) project, covering planning, analysis, design, implementation, and review.
 
-## Objectives
-1. Capture and store essential hotel data, including reservations, payments, rooms, and customer details.
-2. Facilitate efficient, online reservations and registration.
-3. Record and manage customer details, supporting easy reuse for repeat bookings.
-4. Ensure secure data access for hotel staff and registered users.
-5. Provide real-time room availability and pricing details.
-6. Enable room reservations from any location with internet access.
+The **Deluxe Hotel Reservations System** project is designed to modernize the operations of a fast-growing hotel in Botswana by automating the reservations and booking processes. This case study is part of the **System Development Life Cycle (SDLC)** and includes planning, analysis, design, and implementation phases. The goal is to develop a web-based application that improves operational efficiency, enhances user experience, and supports customer engagement for hotel reservations.
+
+The project will be developed in phases, starting with the planning and analysis of requirements, followed by system design and the initial steps of the implementation.
 
 ---
 
-## Feasibility Analysis
-### 1. Technical Feasibility
-Evaluates hardware, software, internet connectivity, and security requirements. Examines the compatibility of the new system with existing infrastructure and assesses integration risks.
+## Project Phases
 
-### 2. Economic Feasibility
-Assesses whether development costs align with budget constraints, focusing on cost-benefit analysis to estimate Return on Investment (ROI) and the payback period.
+The project follows the **System Development Life Cycle (SDLC)** methodology:
 
-### 3. Schedule Feasibility
-Evaluates whether the project timeline is realistic, ensuring optimal resource allocation within set deadlines.
+### 1. **Planning** (12 Marks)
+The planning phase includes an evaluation of the project's **feasibility** in four critical areas:
+- **Technical Feasibility**: Assessing the hardware, software, and network requirements to support the system.
+- **Economic Feasibility**: Determining the cost-effectiveness of the project, including the expected ROI.
+- **Schedule Feasibility**: Ensuring the project can be delivered within the proposed timeline.
+- **Operational Feasibility**: Analyzing how the system will fit into the current operations of the hotel and how it can improve existing processes.
 
-### 4. Operational Feasibility
-Determines the new system’s effectiveness in addressing the hotel’s operational challenges and assesses the adaptability of hotel staff and management.
+### 2. **Analysis** (17 Marks)
+The analysis phase identifies detailed system requirements, such as:
+- **Request for Proposal (RFP)**: A document outlining the scope, objectives, and expectations for the new system.
+- **Functional Requirements**: Specific features the system must support, like room reservation, booking confirmations, and customer management.
+- **Non-Functional Requirements**: Key system characteristics such as accessibility, security, and scalability.
 
----
+### 3. **Design** (28 Marks)
+This phase includes the creation of various system models:
+- **Functional Model**: Use case diagrams that define the interactions between users and the system.
+- **Structural Model**: Class diagrams to describe the relationships between system components and the underlying data.
+- **Behavioral Model**: Activity and sequence diagrams that describe how the system processes data and handles user interactions.
 
-## Request for Proposal (RFP)
+### 4. **Implementation** (14 Marks)
+In this stage, the system's architecture is defined, and core features are outlined:
+- **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.
+- **Pseudocode**: A step-by-step breakdown of the system's booking logic, outlining how data will be processed and validated.
 
-### Project Overview
-The Deluxe Hotel management requires a solution to replace their manual, paper-based system. This proposal outlines the need for a web-based system to streamline bookings, reduce processing time, prevent data loss, and provide convenient, remote access to hotel services for both customers and staff.
-
-### Project Objectives
-1. **System Automation**: Replace manual booking processes with automated, online solutions.
-2. **Data Security**: Implement secure access protocols to protect critical hotel information.
-3. **User Accessibility**: Enable ease of access to hotel services and booking details for both customers and hotel staff.
-
-### Deliverables
-1. Fully functional web-based application.
-2. Comprehensive system documentation.
-3. Training and support materials for hotel staff.
-
----
-
-## Requirements
-
-### Functional Requirements
-- The system should send reservation and payment confirmation messages.
-- Capture and store customer reservation details, such as booking date, check-in, and check-out information.
-- Display room rates and apply discounts for qualifying bookings.
-- Validate user login credentials.
-- Cancel bookings if payment is not received within three days.
-
-### Non-functional Requirements
-- **Accessibility**: Accessible through public web pages.
-- **Ease of Use**: Simple and intuitive user interface.
-- **Security**: Only authorized users can access sensitive information; ensures payment and personal data protection.
+### 5. **Review** (17 Marks)
+The review phase includes project management tasks, such as:
+- Completing the **New Software Table** to identify task dependencies and milestones.
+- Drawing a **network diagram** to visualize project dependencies, deadlines, and resource allocation.
 
 ---
 
-## System Design
+## Technologies Used
 
-### Use Case & Diagrams
-- **Use Case Diagrams**: Visual representation of system functionalities, accessible [here](#).
-- **Class Diagrams**: Describes relationships between system classes, accessible [here](#).
-- **Activity Diagrams**: Workflow of key activities within the booking and reservation process.
-- **Sequence Diagrams**: Details the interaction between objects in the booking process.
+- **Programming Languages**: [Insert programming languages you used, e.g., Python, Java, JavaScript, PHP, etc.]
+- **Database**: [Insert database system used, e.g., MySQL, PostgreSQL, MongoDB, etc.]
+- **Frameworks/Tools**: [List frameworks, libraries, or tools used, e.g., Django, Flask, React, Laravel, etc.]
+- **Version Control**: Git, GitHub
+- **Project Management Tools**: [Insert tools, e.g., Microsoft Project, Trello, JIRA, etc.]
+- **Diagramming Tools**: [Insert any tools used for UML or flowcharting, e.g., Lucidchart, Draw.io]
+
+---
+
+## Project Outcomes and Next Steps
+
+- The **system design** phase has been completed, and we are now preparing for **implementation**.
+- The next step involves translating the system design into working code, including the booking system's core functionality.
+- **Testing and Deployment**: Once development is completed, extensive testing will be carried out to ensure the system meets all functional and non-functional requirements before deployment.
 
 ---
 
@@ -167,6 +158,11 @@ Below is a structured pseudocode example for handling the booking and reservatio
 
 ---
 
+## Conclusion
+
+This project provides a comprehensive approach to developing a hotel reservation system, addressing all aspects from initial feasibility studies to detailed system design. By following the SDLC approach, this case study demonstrates how to analyze business needs, design technical solutions, and plan for successful implementation.
+
+---
 ## Contact Information
 - **Email**: dmmolotsa@gmail.com
 
