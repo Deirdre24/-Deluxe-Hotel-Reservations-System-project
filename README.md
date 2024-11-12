@@ -87,6 +87,63 @@ Below is a structured pseudocode example for handling the booking and reservatio
 
 ## Full Pseudocode
 The detailed pseudocode is available here.
+## Pseudocode Solution
+
+```plaintext
+1. START
+2. 
+3. //declare variables
+4. Date ExpectedCheckInDate, ExpectedCheckoutDate, DateOfBooking
+5. Time Time
+6. Int NoOfRooms
+7. Decimal TotalPrice, DiscountedTotalPrice, Discount
+8. Date, Time, Int AvailableRooms, Time, ReservedRooms, DateOfBooking
+9. String Reserved, Duration, BookingDetails
+10. Int NoOfDays
+11. 
+12. //Initialise values
+13. Discount = 0.1
+14. PaymentDeadline = DateOfBooking + 3
+15. 
+16. PRINT (“Please Enter log in details”)
+17. 
+18. ExpectedCheckInDate = PRINT(“Please Enter check-in date (DD-MM-YYYY):”)
+19. ExpectedCheckOutDate = PRINT(“Please Enter check-out date (DD-MM-YYYY):”)
+20. 
+21. NoOfDays = ExpectedCheckOutDate – ExpectedCheckInDate
+22. 
+23. AvailableRooms = get_available_rooms( CheckInDate, CheckOutDate, Time, NoOfRooms)
+24. 
+25. NoOfRooms = PRINT(“Enter number of rooms needed: “)
+26. IF NoOfRooms <= AvailableRooms
+27. THEN Reserved = reserve_room(ExpectedCheckInDate, ExpectedCheckOutDate, Time)
+28. IF Duration = Weekdays
+29. THEN TotalPrice = P350 * NoOfDays
+30. IF NoOfDays > 3 
+31. THEN DiscountedTotalPrice = TotalPrice * Discount
+32. PRINT (“Your Bill is: DiscountedTotalPrice”)
+33. ELSE
+34. PRINT (“Your Bill is: TotalPrice”)
+35. ENDIF
+36. ELSEIF Duration = Weekends
+37. THEN TotalPrice = P500 * NoOfDays
+38. ENDIF  
+39. 
+40. Function processPayment(BookingDetails, TotalPrice, DiscountedTotalPrice)  
+41. As String
+42. IF DateOfBooking > PaymentDeadline THEN
+43. cancelBooking(Booking)
+44. Return (“Reservation Cancelled”)
+45. ELSE
+46. UpdateBooking(BookingDetails)
+47. Return (“paid”)
+48. END Function
+49. 
+50. ELSE
+51. PRINT (“Sorry, there are no rooms available”) 
+52. ENDIF
+53. STOP
+```
 
 --- 
 
