@@ -36,7 +36,7 @@ This phase includes the creation of various system models:
   
 - **Behavioral Model**: Activity and sequence diagrams that describe how the system processes data and handles user interactions.
   [View Activity Diagram](docs/diagrams/activity_diagram.png)  
-  [View Sequence Diagram](docs/diagrams/sequence_diagram.png)
+  [View Sequence Diagram](https://github.com/Deirdre24/-Deluxe-Hotel-Reservations-System-project/blob/main/SD%20SEQUENCE%20DIAGRAM.jpg)
 
 
 ### 4. **Implementation** 
