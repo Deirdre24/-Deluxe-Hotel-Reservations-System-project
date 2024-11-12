@@ -168,9 +168,7 @@ Below is a structured pseudocode example for handling the booking and reservatio
 ---
 
 ## Contact Information
-- **Email**: Bida22-068@thuto.bac.ac.bw
-- **Phone**: +267 73515867
-- **Address**: Private Bag 5628, CBD
+- **Email**: dmmolotsa@gmail.com
 
 ---
 
