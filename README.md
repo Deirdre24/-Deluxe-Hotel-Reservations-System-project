@@ -28,7 +28,7 @@ The analysis phase identifies detailed system requirements, such as:
 ### 3. **Design** 
 This phase includes the creation of various system models:
 - **Functional Model**: Use case diagrams that define the interactions between users and the system.
- ![Use Case Diagram](https://github.com/Deirdre24/-Deluxe-Hotel-Reservations-System-project/blob/main/SD%20USE%20CASE%20DIAGRAM.jpg)
+ ![Use Case Diagram](https://github.com/Deirdre24/Deluxe-Hotel-Reservations-System-project/blob/main/Use%20Case%20Diagram.jpg)
  
 
 - **Structural Model**: Class diagrams to describe the relationships between system components and the underlying data.
