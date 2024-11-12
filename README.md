@@ -28,25 +28,21 @@ The analysis phase identifies detailed system requirements, such as:
 ### 3. **Design** 
 This phase includes the creation of various system models:
 - **Functional Model**: Use case diagrams that define the interactions between users and the system.
-  ![Use Case Diagram]()  
-  *(Click to view the full use case diagram)*
+ [View Use Case Diagram](docs/diagrams/use_case_diagram.png)
+ 
 
 - **Structural Model**: Class diagrams to describe the relationships between system components and the underlying data.
-  ![Class Diagram]()  
-  *(Click to view the full class diagram)*
+ [View Class Diagram](docs/diagrams/class_diagram.png) 
   
 - **Behavioral Model**: Activity and sequence diagrams that describe how the system processes data and handles user interactions.
-  ![Activity Diagram]()  
-  *(Click to view the full activity diagram)*  
-  ![Sequence Diagram](https://github.com/Deirdre24/-Deluxe-Hotel-Reservations-System-project/blob/main/SD%20SEQUENCE%20DIAGRAM.jpg)  
-  *(Click to view the full sequence diagram)*
+  [View Activity Diagram](docs/diagrams/activity_diagram.png)  
+  [View Sequence Diagram](docs/diagrams/sequence_diagram.png)
+
 
 ### 4. **Implementation** 
 In this stage, the system's architecture is defined, and core features are outlined:
 - **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.
-  **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.  
-  ![Flowchart](https://github.com/Deirdre24/-Deluxe-Hotel-Reservations-System-project/blob/main/SD%20FLOWCHART.jpeg)  
-  *(Click to view the full flowchart)*
+ [View Flowchart](docs/diagrams/flowchart.png)
   
 - **Pseudocode**: A step-by-step breakdown of the system's booking logic, outlining how data will be processed and validated.
 
