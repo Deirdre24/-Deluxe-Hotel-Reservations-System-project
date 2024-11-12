@@ -32,20 +32,20 @@ This phase includes the creation of various system models:
   *(Click to view the full use case diagram)*
 
 - **Structural Model**: Class diagrams to describe the relationships between system components and the underlying data.
-  ![Class Diagram](docs/diagrams/class_diagram.png)  
+  ![Class Diagram]()  
   *(Click to view the full class diagram)*
   
 - **Behavioral Model**: Activity and sequence diagrams that describe how the system processes data and handles user interactions.
-  ![Activity Diagram](docs/diagrams/activity_diagram.png)  
+  ![Activity Diagram]()  
   *(Click to view the full activity diagram)*  
-  ![Sequence Diagram](docs/diagrams/sequence_diagram.png)  
+  ![Sequence Diagram]()  
   *(Click to view the full sequence diagram)*
 
 ### 4. **Implementation** 
 In this stage, the system's architecture is defined, and core features are outlined:
 - **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.
   **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.  
-  ![Flowchart](docs/diagrams/flowchart.png)  
+  ![Flowchart]()  
   *(Click to view the full flowchart)*
   
 - **Pseudocode**: A step-by-step breakdown of the system's booking logic, outlining how data will be processed and validated.
