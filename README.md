@@ -45,7 +45,7 @@ This phase includes the creation of various system models:
 In this stage, the system's architecture is defined, and core features are outlined:
 - **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.
   **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.  
-  ![Flowchart]()  
+  ![Flowchart](https://github.com/Deirdre24/-Deluxe-Hotel-Reservations-System-project/blob/main/SD%20FLOWCHART.jpeg)  
   *(Click to view the full flowchart)*
   
 - **Pseudocode**: A step-by-step breakdown of the system's booking logic, outlining how data will be processed and validated.
