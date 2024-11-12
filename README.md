@@ -12,31 +12,31 @@ The project will be developed in phases, starting with the planning and analysis
 
 The project follows the **System Development Life Cycle (SDLC)** methodology:
 
-### 1. **Planning** (12 Marks)
+### 1. **Planning** 
 The planning phase includes an evaluation of the project's **feasibility** in four critical areas:
 - **Technical Feasibility**: Assessing the hardware, software, and network requirements to support the system.
 - **Economic Feasibility**: Determining the cost-effectiveness of the project, including the expected ROI.
 - **Schedule Feasibility**: Ensuring the project can be delivered within the proposed timeline.
 - **Operational Feasibility**: Analyzing how the system will fit into the current operations of the hotel and how it can improve existing processes.
 
-### 2. **Analysis** (17 Marks)
+### 2. **Analysis** 
 The analysis phase identifies detailed system requirements, such as:
 - **Request for Proposal (RFP)**: A document outlining the scope, objectives, and expectations for the new system.
 - **Functional Requirements**: Specific features the system must support, like room reservation, booking confirmations, and customer management.
 - **Non-Functional Requirements**: Key system characteristics such as accessibility, security, and scalability.
 
-### 3. **Design** (28 Marks)
+### 3. **Design** 
 This phase includes the creation of various system models:
 - **Functional Model**: Use case diagrams that define the interactions between users and the system.
 - **Structural Model**: Class diagrams to describe the relationships between system components and the underlying data.
 - **Behavioral Model**: Activity and sequence diagrams that describe how the system processes data and handles user interactions.
 
-### 4. **Implementation** (14 Marks)
+### 4. **Implementation** 
 In this stage, the system's architecture is defined, and core features are outlined:
 - **Flowchart**: A visual representation of the system's booking logic, from room selection to payment processing.
 - **Pseudocode**: A step-by-step breakdown of the system's booking logic, outlining how data will be processed and validated.
 
-### 5. **Review** (17 Marks)
+### 5. **Review** 
 The review phase includes project management tasks, such as:
 - Completing the **New Software Table** to identify task dependencies and milestones.
 - Drawing a **network diagram** to visualize project dependencies, deadlines, and resource allocation.
