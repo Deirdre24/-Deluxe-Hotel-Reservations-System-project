@@ -85,8 +85,6 @@ Below is a structured pseudocode example for handling the booking and reservatio
 8. Process payment or cancel reservation if deadline passes
 9. END
 
-## Full Pseudocode
-The detailed pseudocode is available here.
 ## Pseudocode Solution
 
 ```plaintext
